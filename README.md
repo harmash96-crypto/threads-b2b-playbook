@@ -36,12 +36,12 @@ The goal is frictionless engagement — someone reads it in 3 seconds and hits l
 
 **Examples:**
 ```
-Your email list is yours. The algorithm isn't.
-Most lists die from silence, not unsubscribes.
-One expired permit closes everything.
-Restaurants don't fail on food. They fail on margins.
-The fine is always bigger than the fee.
-Nobody becomes a chef to manage a spreadsheet.
+Features don't sell software. Outcomes do.
+Most churn happens before the first login.
+Scope creep starts with "just one small thing."
+The cheapest client is always the most expensive.
+Good briefs prevent bad revisions.
+Saying no is a business strategy.
 ```
 
 ---
@@ -68,28 +68,30 @@ Tag the [specific person] who [recognizes themselves].
 
 **Example:**
 ```
-Email marketing in 2026:
-- Open Mailchimp.
-- Stare at blank subject line.
-- Close Mailchimp.
-- Tell yourself you'll do it Friday.
-- It's been 3 months.
+Building a SaaS in 2026:
+- Launch the MVP.
+- Get 200 signups.
+- Watch 190 of them never log in again.
+- Add more features.
+- Watch 9 more leave.
+- Wonder why growth is slow.
 
-Meanwhile your competitors just hit send and booked 12 clients.
+The product wasn't the problem.
 
-Tag the business owner who's been "almost ready to start" since January.
+Tag a founder who's been "improving the product" instead of talking to churned users.
 ```
 
 **Example 2:**
 ```
-Restaurant permit management in 2026:
-- Receive renewal notice.
-- Put it in the "important" pile.
-- Forget about the pile.
-- Inspector shows up on a Friday night.
-- Suddenly remember the pile.
+Freelancing in 2026:
+- Client asks for "just a few changes."
+- Send revision 1.
+- They say it's perfect.
+- Two days later: "actually can we go back to the original?"
+- It's revision 7.
+- The deadline was last week.
 
-Tag the owner who's currently looking for a permit they definitely renewed.
+Tag the freelancer who's currently on revision 11 of a "quick project."
 ```
 
 ---
@@ -109,18 +111,18 @@ This is for the [who] who [what they're experiencing].
 
 **Examples:**
 ```
-This is for the business owner who has 800 subscribers and hasn't emailed them once this year.
-The list isn't the problem. The silence is.
+This is for the founder who's been building for 8 months and still hasn't talked to 10 customers.
+The market will tell you what to build. You just have to ask.
 ```
 
 ```
-This is for the restaurant owner who worked 14 hours yesterday and still went home stressed about tomorrow.
-You didn't open a restaurant to feel like this every night.
+This is for the freelancer who keeps lowering their rate to win projects.
+The clients you attract at that price are the reason you want to raise it.
 ```
 
 ```
-This is for the founder who rewrote the subject line 11 times and still didn't send it.
-Done beats perfect. Especially in email.
+This is for the agency owner who hasn't raised prices in two years.
+Your costs went up. Your rates didn't.
 ```
 
 ---
@@ -138,13 +140,13 @@ The best question posts make people realize they don't have a good answer — an
 
 **Examples:**
 ```
-If your email list disappeared tomorrow, would your business notice?
+If your biggest client left tomorrow, would your business survive the month?
 ```
 ```
-Would you subscribe to your own email list?
+What would happen to your product if you stopped adding features for 90 days?
 ```
 ```
-If you unsubscribed from your own newsletter tomorrow — would you miss anything?
+Would you hire yourself at your current rate?
 ```
 
 ---
