@@ -182,7 +182,7 @@ B2B accounts benefit especially because the niche is tight. When someone in your
 
 ## Credits
 
-Inspired by analysis of [@craftedbywords](https://www.threads.net/@craftedbywords) on Threads and the call-out content advice from [@heydottieco](https://www.threads.net/@heydottieco).
+Based on analysis of high-performing B2B accounts on Threads.
 
 ---
 
